@@ -7,7 +7,7 @@ Sunbeam Specifications
 
 
 This git repository is used to hold approved design specifications for additions
-to the Sunbeam project.  Reviews of the specs are done in gerrit, using a similar
+to the Sunbeam project. Reviews of the specs are done in gerrit, using a similar
 workflow to how we review and merge changes to the code itself. For specific
 policies around specification review, refer to the end of this document.
 
