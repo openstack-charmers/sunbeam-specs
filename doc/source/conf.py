@@ -228,7 +228,7 @@ texinfo_documents = [
 epub_title = 'Sunbeam Specs'
 epub_author = 'Sunbeam Team'
 epub_publisher = 'Sunbeam Team'
-epub_copyright = '2026, Sunbeam Team'
+epub_copyright = copyright
 
 # The language of the text. It defaults to the language option
 # or en if the language is not set.
