@@ -37,6 +37,7 @@ extensions = ['redirect',
 # Settings for openstackdocstheme
 openstackdocs_repo_name = 'openstack-charmers/sunbeam-specs'
 openstackdocs_auto_name = False
+openstackdocs_auto_version = False
 openstackdocs_bug_project = 'sunbeam-specs'
 openstackdocs_bug_tag = ''
 
