@@ -2,13 +2,6 @@
 Sunbeam 2027.1 Specifications
 =============================
 
-Template:
-
-.. toctree::
-   :maxdepth: 1
-
-   Specification Template (2027.1 release) <template>
-
 2027.1 implemented specs:
 
 .. toctree::

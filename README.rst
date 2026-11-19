@@ -24,3 +24,12 @@ Example specifications
 ----------------------
 
 You can find an example spec in ``specs/template.rst``.
+
+License
+-------
+
+The specification documents in this repository are licensed under the
+Creative Commons Attribution 3.0 Unported License; see the ``LICENSE``
+file. The supporting code, such as ``tests/`` and ``doc/source/*.py``,
+is licensed under the Apache License, Version 2.0, as stated in each
+file's header.

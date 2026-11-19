@@ -5,7 +5,8 @@ Sunbeam Specifications
 Specifications
 ==============
 
-Here you can find the specs, and spec template, for each release:
+Here you can find the specs for each release. The spec template is kept in
+the repository at ``specs/template.rst``.
 
 .. toctree::
    :glob:
@@ -24,7 +25,7 @@ Documentation for sunbeam-specs process:
 
    How to submit a spec <readme>
 
-For more details, look at spec template for the specific release.
+For new specs, start from ``specs/template.rst`` in the repository.
 
 Indices and tables
 ==================
